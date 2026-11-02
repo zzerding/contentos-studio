@@ -1,5 +1,8 @@
 # ContentOS · Agent 工作台
 
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue)](LICENSE)
+![Commercial use: prohibited](https://img.shields.io/badge/commercial%20use-prohibited-red)
+
 单文件、零运行依赖的内容运营工作台原型。对话是主入口，右侧为资源画布；手动 UI、`/tool` 指令和模型共用同一套 40 个白名单工具。
 
 在线预览：<https://zzerding.github.io/contentos-studio/>
@@ -39,4 +42,6 @@ node tests/agent-content-studio.test.cjs
 
 ## 许可
 
-[PolyForm Noncommercial License 1.0.0](LICENSE) —— 允许个人学习、研究、实验及非商业组织内部使用；**禁止任何商业用途**。
+- 许可：[PolyForm Noncommercial License 1.0.0](LICENSE) —— 允许个人学习、研究、实验及非商业组织内部使用；**禁止任何商业用途**。
+- SPDX：`PolyForm-Noncommercial-1.0.0`。GitHub 的许可证徽标不收录该许可，仓库页会显示 “Other”，以 `LICENSE` 文件为准。
+- 分发时须随附本许可条款（或官方 URL）以及 `LICENSE` 顶部的 `Required Notice:` 行。
